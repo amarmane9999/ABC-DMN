@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dmn:definitions xmlns:dmn="http://www.omg.org/spec/DMN/20180521/MODEL/" xmlns="https://kiegroup.org/dmn/_A1CDA0EA-F669-4D1D-9861-D4F95D61F00F" xmlns:feel="http://www.omg.org/spec/DMN/20180521/FEEL/" xmlns:kie="http://www.drools.org/kie/dmn/1.2" xmlns:dmndi="http://www.omg.org/spec/DMN/20180521/DMNDI/" xmlns:di="http://www.omg.org/spec/DMN/20180521/DI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" id="_C252A67D-4225-493E-99C4-C4E4BD19DD0E" name="Untitled-1" typeLanguage="http://www.omg.org/spec/DMN/20180521/FEEL/" namespace="https://kiegroup.org/dmn/_A1CDA0EA-F669-4D1D-9861-D4F95D61F00F">
+  <dmn:extensionElements/>
+  <dmndi:DMNDI>
+    <dmndi:DMNDiagram id="_3948351B-B946-4F7B-97E1-E517CBABE437" name="DRG">
+      <di:extension>
+        <kie:ComponentsWidthsExtension/>
+      </di:extension>
+    </dmndi:DMNDiagram>
+  </dmndi:DMNDI>
+</dmn:definitions>
